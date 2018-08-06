@@ -12,6 +12,11 @@
   <a href="https://twitter.com/mikediarmid"><img src="https://img.shields.io/twitter/follow/mikediarmid.svg?style=social&label=Follow" alt="Follow on Twitter"></a>
 </p>
 
+----
+
+> **Bridge has moved to [invertase/jet](https://github.com/invertase/jet) and is in the process of being reworked. This repo will remain here as a reference for anyone currently using Bridge/Jet as is.**
+
+----
 
 Bridge lets you bring your React Native JS code into Nodejs and test it mock free and native testing code free. Perfect for React Native module developers who want to fully test their packages end-to-end and setup continuous integration services (including coverage 💯).
 
